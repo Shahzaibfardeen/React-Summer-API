@@ -1,2 +1,2 @@
-# React-Summer-API
+# React-Seasons
 Its an Application that detect what season the user is experiencing outside the real world. ( User Physical Location   ||   Determine the Current Month - API ) 
